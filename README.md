@@ -9,7 +9,7 @@
 
 - 🎓 B.Tech in Electronics & Communication Engineering at **SVNIT, Surat** (CGPA: 8.5/10)
 
-- 🔭 I'm currently working as an **SDE Intern at Nomorede**
+- 🔭 ex-SDE intern at Nomorede and Megascale
 
 - 🌱 I'm currently building **Cross-Platform Applications and Microservices**
 
